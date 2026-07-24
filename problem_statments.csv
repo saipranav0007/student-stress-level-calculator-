@@ -1,0 +1,7 @@
+Field,Description
+Project Title,Student Stress Level Monitor
+Problem,"Students face daily stress from academic workload, screen time, and lifestyle habits, but rarely have a simple, objective way to measure or track it."
+Approach,"A Python program takes 5 daily lifestyle inputs (sleep hours, study hours, screen time, social activity, exercise) and calculates a stress score using a weighted formula."
+Core Subject,Psychology / Human Health (Stress Physiology)
+Output,"A stress score from 0-100, classified as Low, Medium, or High"
+Goal,"Give students early, data-driven awareness of their stress levels so they can make lifestyle adjustments before stress becomes overwhelming"
